@@ -16,7 +16,7 @@
 title: Daytona 2019 - Rolex 24
 email: play@coolgames.net
 description: >- # this means to ignore newlines until "baseurl:"
- This is the project page for the Daytona 2019 - Rolex 24 hour race.
+ This is the start of the project page for the Daytona 2019 - Rolex 24 hour race.
 
 baseurl: "/Daytona24" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
